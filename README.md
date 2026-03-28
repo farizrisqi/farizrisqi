@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fariz Risqi Maulana
 
-🚀 **Data Engineer & Machine Learning Enthusiast** | M.Sc. in Engineering Physics
+🚀 **M.Sc. in Engineering Physics | Data Engineer & Machine Learning Enthusiast | Aviation Enthusiast**
 
 I specialize in building scalable data pipelines, processing large-scale datasets, and developing intelligent models. Coming from a strong analytical background in **Engineering Physics (S2 Teknik Fisika)**, I channel my problem-solving skills into the world of **Big Data, Data Engineering, and Machine Learning** to build robust and efficient data-driven solutions.
 
